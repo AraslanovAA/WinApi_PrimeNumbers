@@ -1,0 +1,40 @@
+﻿  main.cpp
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(220): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(307): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(315): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(326): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(334): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(412): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(425): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(530): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(543): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(568): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(593): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(598): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(632): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(645): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(689): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(720): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(746): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(751): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\users\user\desktop\тп_3лаба\prolab3\main.cpp(365): warning C4101: hdc: неиспользованная локальная переменная
+  proLab3.vcxproj -> C:\Users\User\Desktop\ТП_3ЛАБА\Debug\proLab3.exe
+  proLab3.vcxproj -> C:\Users\User\Desktop\ТП_3ЛАБА\Debug\proLab3.pdb (Full PDB)
